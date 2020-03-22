@@ -1,2 +1,3 @@
-# CE888
-Data science module
+# The task of CNN implementation on a dataset is in exercise 2 - malaria dataset
+
+
