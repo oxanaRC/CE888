@@ -1,2 +1,2 @@
-# Testing a variaty of tutorials found on internet
+# Testing a variety of tutorials found on internet
 
