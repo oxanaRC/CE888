@@ -1,2 +1,3 @@
-# CE888
-Data science module
+# CE888 Project
+Decision Trees for Expert Iteration (Reinforcement learning)
+
